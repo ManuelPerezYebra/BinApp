@@ -55,7 +55,7 @@ const MainContent = () => {
 					</InputsContainer>
 				</div>
 				<ResultContainer>
-					<h3>Filtered Inventory</h3>
+					<h3>Filtered Bins</h3>
 					<FilteredContainer>
 						{filteredInventory.length > 0 && (
 							<InputsContainer>
