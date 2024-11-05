@@ -1,9 +1,9 @@
-import { StyledHeader } from './header.styles';
+import { DevelopText, StyledHeader } from './header.styles';
 
 const Header = () => {
 	return (
 		<StyledHeader>
-			<h1>
+			<h3>
 				MAD7 <strong>Bin Pick Cons Filter</strong>
 			</h1>
 		</StyledHeader>
